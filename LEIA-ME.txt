@@ -1,0 +1,1 @@
+GV Gestão de Frota - projeto inicial React/Vite + Supabase. Não usar dados reais ainda: políticas RLS são provisórias e precisam ser restringidas por perfil antes da implantação.
